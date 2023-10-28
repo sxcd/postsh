@@ -217,18 +217,4 @@ body.gratisography-161h,
 .theme-color .blue-gray.theme-item {
   background-color: #607d8b;
 }
-/*================================================================
-  #SETTINGS - header-style
-  ================================================================*/
-.header-style .header-item {
-  cursor: pointer;
-  padding: 4px;
-  background-color: #F5F5F5;
-  margin-top: 4px;
-  display: inline-block;
-}
-.header-style .header-item:hover,
-.header-style .header-item.active {
-  background-color: #ffb300;
-  color: #fff !important;
-}
+
