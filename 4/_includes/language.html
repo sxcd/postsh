@@ -1,0 +1,28 @@
+<div class="contact-container container-block">
+  <ul class="list-unstyled contact-list">
+    
+    {% if sidebar.handwave %}
+    <li class="game"><i class="fas fa-hand-spock"></i><i class="fas fa-hand-spock"></i><i class="fas fa-hand-spock"></i>
+    </li>
+    {% endif %}
+
+    {% if sidebar.game %}
+    <li class="game"><i class="fas fa-gamepad"></i>
+      {{ sidebar.game }}
+    </li>
+    {% endif %}
+
+    {% if sidebar.reading %}
+    <li class="reading"><i class="fas fa-book"></i>
+     {{ sidebar.reading }}
+    </li>
+    {% endif %}
+
+    {% if sidebar.listening %}
+    <li class="listening"><i class="fas fa-music"></i>
+     {{ sidebar.listening }}
+    </li>
+    {% endif %}
+
+  </ul>
+</div><!--//contact-container-->

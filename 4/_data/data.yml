@@ -1,0 +1,177 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False  # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Lesley Y Chan
+    tagline: < enable debug mode >
+    avatar: profile.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: 
+    phone: 
+    website:
+    linkedin: 
+    github: lesleyychan
+    gitlab:
+    bitbucket:
+    twitter: endless_ley
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    
+#     language:
+    handwave: hand-spock
+    game: legend of zelda + animal crossing
+    listening: dua lipa - future nostalgia 
+    
+# career-profile:
+#     title: Career Profile
+#     summary: |
+  
+      
+
+# education:
+#     - degree: Bachelor of Science - Computer Science
+#       university: University of British Columbia
+#       time: 2014 - 2016
+#       details: |
+ 
+#     - degree: Exchange Program
+#       university: National Taiwan University
+#       time: Feb 2012 - June 2012
+#       details: |
+      
+#     - degree: Bachelor of Arts - Political Science
+#       university: University of British Columbia
+#       time: 2007 - 2012
+#       details: |
+
+
+educationcomplete:
+    - degree: Bachelor of Science - Computer Science
+      university: University of British Columbia
+      time: 2014 - 2016
+      details: |
+ 
+    - degree: Exchange Program
+      university: National Taiwan University
+      time: February 2012 - June 2012
+      details: |
+      
+    - degree: Bachelor of Arts - Political Science
+      university: University of British Columbia
+      time: 2007 - 2012
+      details: |
+      
+experiences:
+    - role: Technical Support Engineer
+      time: July 2019 - Present
+      company: GitHub, Vancouver (remote)
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#         error sit voluptatem accusantium doloremque laudantium, totam rem
+#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#         architecto beatae vitae dicta sunt explicabo.
+
+#           - Bullet point
+#           - Bullet point
+
+    - role: Software Engineer
+      time: April 2017 - September 2018
+      company: Freelance contractor, Vancouver
+      details: |
+
+
+    - role: Associate Technical Product Manager
+      time: April 2016 - April 2017
+      company: Eventbase Technology, Vancouver
+      details: |
+
+    - role: Technical Support Engineer, Intern
+      time: January 2015 - August 2015
+      company: SAP, Vancouver
+      details: | 
+
+    - role: Program Manager
+      time: June 2012 - September 2014
+      company: University of British Columbia, Vancouver
+      details: |
+
+
+    - role: Project Analyst
+      time: September 2011 - May 2012
+      company: University of British Columbia, Vancouver
+      details: | 
+
+
+licenses:
+    - role: Project Management Professional (PMP)
+      time: June 2021
+      company: Project Management Institute 
+
+
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
+
+# skills:
+#     title: Skills &amp; Proficiency
+
+#     toolset:
+#       - name: Python
+#         level: 100%
+
+#       - name: PyTorch
+#         level: 90%
+
+#       - name: Tensorflow
+#         level: 60%
+
+#       - name: Caffe
+#         level: 80%
+
+#       - name: Matlab
+#         level: 90%
+
+#       - name: C/C++
+#         level: 75%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
