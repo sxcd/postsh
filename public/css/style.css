@@ -35,7 +35,57 @@
 /*================================================================
   #GENERAL
   ================================================================*/
-body {
+  #theme-blue a,
+  #theme-blue li:before,
+  #theme-blue .content .fa,
+  #theme-blue .settings-panel .panel-title {
+    color: #1E88E5;
+  }
+  #theme-blue .addon .settings-btn,
+  #theme-blue .addon .contact-btn,
+  #theme-blue .addon .to-top-btn,
+  #theme-blue .addon .print-btn,
+  #theme-blue .addon .download-btn {
+    color: #1E88E5;
+  }
+  #theme-blue #contact-section [type="submit"],
+  #theme-blue #contact-section-second [type="submit"] {
+    background-color: #1E88E5;
+  }
+  #theme-blue #contact-section [type="submit"]:hover,
+  #theme-blue #contact-section-second [type="submit"]:hover {
+    background-color: #FFB300;
+  }
+  
+  #theme-blue-gray #header > .cv-section {
+    border-top: 10px solid #607D8B;
+  }
+  #theme-blue-gray a,
+  #theme-blue-gray li:before,
+  #theme-blue-gray .content .fa,
+  #theme-blue-gray .settings-panel .panel-title {
+    color: #607D8B;
+  }
+  #theme-blue-gray .addon .settings-btn,
+  #theme-blue-gray .addon .contact-btn,
+  #theme-blue-gray .addon .to-top-btn,
+  #theme-blue-gray .addon .print-btn,
+  #theme-blue-gray .addon .download-btn {
+    color: #607D8B;
+  }
+  #theme-blue-gray #contact-section [type="submit"],
+  #theme-blue-gray #contact-section-second [type="submit"] {
+    background-color: #607D8B;
+  }
+  #theme-blue-gray #contact-section [type="submit"]:hover,
+  #theme-blue-gray #contact-section-second [type="submit"]:hover {
+    background-color: #FFB300;
+  }
+
+
+/*================================================================
+  #HEADER 
+  ================================================================*/body {
   background-color: #FAFAFA;
   background-attachment: fixed;
   font-family: 'Open Sans', sans-serif;
@@ -128,7 +178,7 @@ a:hover {
   margin-bottom: 0;
 }
 /*================================================================
-  #HEADER
+  #HEADER 
   ================================================================*/
 #header h1,
 #header h2 {
