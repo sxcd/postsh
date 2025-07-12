@@ -41,8 +41,7 @@
   #HEADER 
   ================================================================*/
 body {
-  background-image: url(../media/bg/svgeneration-graph-paper.svg);
-  background-attachment: fixed;
+  background-color: #000000;
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   width: 100%;
